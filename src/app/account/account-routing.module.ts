@@ -12,7 +12,7 @@ const routes: Routes = [
   { path: 'signUp', component: SignUpComponent },
   { path: 'profile', component: ProfileComponent },
 
-  // { path: 'home', loadCßn: './home/home.module#HomeModule' },
+  // { path: 'home', loan: './home/home.module#HomeModule' },
   { path: '', component: LoginComponent },
 
  ]
